@@ -4,7 +4,7 @@ README dosyasi, bir adet de index.html barindiriyor.
 
 ![img](https://github.com/mustafaak007/kodluyoruzilkrepo/blob/main/figures/Ekran%20görüntüsü%202022-07-22%20124930.png)
 
-## Installion
+## Installation
 
 Oncelikle projeyi clonelayin.(Burada sizin reponuzdan aldiginiz link gelecek)
 ```
@@ -23,6 +23,6 @@ code .
 
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen önce neyi degistirmek istediginizi tartismak icin konu aciniz.
 
-## Licence
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
